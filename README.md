@@ -38,13 +38,14 @@ Follow the steps below to set up this project on your local machine.
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/abdelrahmanusama22/master-data-management.git
-## Installation
+## Usage
+Once set up, the application allows you to:
+- View and manage master data records.
+- Import and export data from Excel or CSV files.
+- Filter records based on various parameters.
+- Perform CRUD operations on the master data.
+## Acknowledgments
+- Laravel Framework
+- Maatwebsite Excel package
 
-### Install dependencies:
-Navigate to the project directory and run:
-```bash
-composer install
-### Generate application key:
-```bash
-php artisan key:generate
-
+س
